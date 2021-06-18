@@ -1,4 +1,9 @@
 # 2D-VTI-FD-RTM-mpich
+
+Copyright (C) Rong Tao, all rights reserve.
+
+# 详情
+
 这是一个基于MPICH的VTI介质逆时偏移成像，在linux终端下实现。[translation: This is an MPICH-based VTI media reverse-time migration imaging, implemented under the Linux terminal]
 
 ## dependence
